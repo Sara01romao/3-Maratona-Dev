@@ -33,14 +33,12 @@ Para o banco de dados
 
 
 
-
-
-
+<br>
 
 
 
 <p align="center">
-  <img width="auto" height="100%" src="https://user-images.githubusercontent.com/46323667/75300595-2c5ce900-5817-11ea-99c9-92362ef4ba02.png">
+  <img width="auto" height="100%" src="https://user-images.githubusercontent.com/46323667/78164833-c8829d00-7420-11ea-9624-7bfda4fdc49f.png">
 </p>
 
 
