@@ -29,7 +29,11 @@ Para o banco de dados
 ```
 
 
-![screencapture-localhost-3000-2020-04-01-13_35_43](https://user-images.githubusercontent.com/46323667/78162871-e8fd2800-741d-11ea-8ef9-e3ae121a30a1.png)
+
+
+<p align="center">
+  <img width="auto" height="auto" src="https://user-images.githubusercontent.com/46323667/78162871-e8fd2800-741d-11ea-8ef9-e3ae121a30a1.png">
+</p>
 
 
 
@@ -38,7 +42,7 @@ Para o banco de dados
 
 
 <p align="center">
-  <img width="auto" height="100%" src="https://user-images.githubusercontent.com/46323667/78164833-c8829d00-7420-11ea-9624-7bfda4fdc49f.png">
+  <img width="auto" height="auto" src="https://user-images.githubusercontent.com/46323667/78164833-c8829d00-7420-11ea-9624-7bfda4fdc49f.png">
 </p>
 
 
